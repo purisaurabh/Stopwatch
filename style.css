@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(40, 40, 148);
+}
+.container {
+    height: 98vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.time {
+color: white;
+font-size: 150px;
+}
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+ul {
+    list-style: none;
+}
+li {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
